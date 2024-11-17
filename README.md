@@ -21,8 +21,9 @@ Ciclo Vicioso
 </p>
 <br><br>
 O jogo aborda o cotidiano de um personagem com Transtorno de Ansiedade Generalizada (TAG), explorando como a pressão por produtividade e a falta de lazer agravam sua condição. Ele conduz o jogador por um ciclo diário de tarefas e reflexões, com o propósito de destacar a importância do equilíbrio entre trabalho e saúde mental, promovendo a conscientização sobre o impacto da ansiedade no dia a dia.
-<br><br>
-
+<br>Rotina Diária:<br>
+A gameplay do jogo pode ser dividida em três principais fases:
+1.<a
 <br><br>
 
 ## 🛠 Estrutura de pastas
