@@ -25,7 +25,10 @@ A gameplay do jogo pode ser dividida em três principais fases:
 <br></br>
 1. <b> Rotina Diária:</b> Complete tarefas básicas enquanto lida com a pressão do tempo. 
 <br><br>
-
+2. <b> Gestão da Ansiedade:</b> Enfrente e alivie a ansiedade para romper o ciclo do estresse. 
+<br><br>
+3. <b> Tomada de Consciência:</b> Explore como o excesso de responsabilidades impacta a saúde mental e emocional. 
+<br><br>
 ## 🛠 Estrutura de pastas
 
 -Raiz<br>
