@@ -11,7 +11,7 @@ Ciclo Vicioso
 
 ## Integrantes: <a href="https://github.com/Smug303">Bruno Eduardo Da Silva Pinho,</a> <a href="https://github.com/estherolvr">Esther Oliveira Costa</a> e Yanko Lee
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Adriano Felix Valente</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Alves Onça</a>,  <a href="https://www.linkedin.com/in/victorbarq/">Francisco de Souza Escobar</a>, <a href="https://www.linkedin.com/in/victorbarq/">João Pedro da Costa Pinto</a>, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Queiroz</a>
+## Professores Orientadores: Adriano Felix Valente, Fabiano Alves Onça, Francisco de Souza Escobar, João Pedro da Costa Pinto, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Queiroz</a>
 
 ## 🎮Descrição Do Jogo
 
