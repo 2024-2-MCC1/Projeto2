@@ -88,10 +88,10 @@ Baixar a plataforma <a href= "https://unity.com/pt/releases/editor/whats-new/202
 Sigas as etapas 
 
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
+- Faça a intalação do Unity
+- Utilize a versão criada 2022.3.36f1
+- Baixe os arquivos do repositorio
+- E clique na Unity para abrir essa pasta
 ```
 
 ## 📋 Licença/License
