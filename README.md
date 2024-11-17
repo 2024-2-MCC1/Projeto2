@@ -15,7 +15,7 @@ Ciclo Vicioso
 
 ## 🎮Descrição Do Jogo
 
-<p align="center"> Fabiano Alves Onça
+<p align="center"> 
 <img src="https://drive.google.com/uc?export=view&id=18pYqd0XV3jZEwX_BzoItbffGwRA0q6Gv" alt="NOME DO JOGO" border="0">
 </p>
 O jogo aborda o cotidiano de um personagem com Transtorno de Ansiedade Generalizada (TAG), explorando como a pressão por produtividade e a falta de lazer agravam sua condição. Ele conduz o jogador por um ciclo diário de tarefas e reflexões, com o propósito de destacar a importância do equilíbrio entre trabalho e saúde mental, promovendo a conscientização sobre o impacto da ansiedade no dia a dia.
