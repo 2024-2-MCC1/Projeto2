@@ -102,12 +102,21 @@ Coloque código do prompt de comnando se for necessário
 
 
 ## 🎓 Referências
-
 Aqui estão as referências usadas no projeto.
 
-1. <https://github.com/iuricode/readme-template>
-2. <https://github.com/gabrieldejesus/readme-model>
-3. <https://chooser-beta.creativecommons.org/>
-4. <https://freesound.org/>
-5. <https://www.toptal.com/developers/gitignore>
-6. Músicas por: <a href="https://freesound.org/people/DaveJf/sounds/616544/"> DaveJf </a> e <a href="https://freesound.org/people/DRFX/sounds/338986/"> DRFX </a> ambas com Licença CC 0.
+1. <https://youtu.be/PsvhXlBlfp4?si=Kkhkhn25_RpFbvOb>
+2. <https://youtu.be/K9hJTO583_Y?si=i9sUWea-EeI_gDPo>
+3. <https://youtu.be/61NzCU3EdUs?si=0CPMnRU-kJp9sQSL/>
+4. <https://pixabay.com/sound-effects//>
+5. <https://assetstore.unity.com/packages/tools/modeling/mess-maker-free-213803>
+6. <https://www.turbosquid.com/3d-models/3d-broom-dust-pan-1451997>
+7. <https://kaylousberg.itch.io/city-builder-bits>
+8. <https://kaylousberg.itch.io/restaurant-bits>
+   
+10. Músicas por:
+11. <https://pixabay.com/pt/sound-effects/latidos-de-corazon-236173/>
+12. <https://pixabay.com/pt/sound-effects/search/pessoas%20comendo/>
+13. <https://pixabay.com/pt/sound-effects/search/people%20talking/>
+14. <https://pixabay.com/pt/users/cyberwave-orchestra-23801316/>
+.
+    
