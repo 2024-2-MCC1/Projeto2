@@ -11,11 +11,11 @@ Ciclo Vicioso
 
 ## Integrantes: <a href="https://github.com/Smug303">Bruno Eduardo Da Silva Pinho,</a> <a href="https://github.com/estherolvr">Esther Oliveira Costa</a> e Yanko Lee
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Alves Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Fabiano Alves Onça</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom/a>,  <a href="https://www.linkedin.com/in/victorbarq/">João Pedro da Costa Pinto</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
 ## 🎮Descrição Do Jogo
 
-<p align="center">
+<p align="center"> Fabiano Alves Onça
 <img src="https://drive.google.com/uc?export=view&id=18pYqd0XV3jZEwX_BzoItbffGwRA0q6Gv" alt="NOME DO JOGO" border="0">
 </p>
 O jogo aborda o cotidiano de um personagem com Transtorno de Ansiedade Generalizada (TAG), explorando como a pressão por produtividade e a falta de lazer agravam sua condição. Ele conduz o jogador por um ciclo diário de tarefas e reflexões, com o propósito de destacar a importância do equilíbrio entre trabalho e saúde mental, promovendo a conscientização sobre o impacto da ansiedade no dia a dia.
