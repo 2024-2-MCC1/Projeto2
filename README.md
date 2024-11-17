@@ -81,11 +81,12 @@ Coloque código do prompt de comnando se for necessário
 ## 💻 Configuração para Desenvolvimento
 
 Para abrir este projeto você necessita das seguintes ferramentas:
+
+
 Baixar a plataforma <a href= "https://unity.com/pt/releases/editor/whats-new/2022.3.6">Unity</a> e baixar a versão 2022.3.36f1
 
 Sigas as etapas 
 
--<a href="https://godotengine.org/download">GODOT</a>
 
 ```sh
 make install
