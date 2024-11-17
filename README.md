@@ -9,7 +9,7 @@
 ## Nome do Grupo
 Ciclo Vicioso
 
-## Integrantes: Bruno Eduardo Laurindo Da Silva Pinho, Esther Oliveira Costa e Yanko Lee
+## Integrantes: Bruno Eduardo Laurindo Da Silva Pinho, <a href="https://github.com/estherolvr">Esther Oliveira Costa</a> e Yanko Lee
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
 
