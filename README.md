@@ -110,11 +110,14 @@ Aqui estão as referências usadas no projeto.
 6. <https://www.turbosquid.com/3d-models/3d-broom-dust-pan-1451997>
 7. <https://kaylousberg.itch.io/city-builder-bits>
 8. <https://kaylousberg.itch.io/restaurant-bits>
+9. <https://www.mixamo.com/>
+10. <https://assetstore.unity.com/search#q=Modern%20Archviz%3A%20Leafless>
+11. <https://assetstore.unity.com/search#q=office%20pack>
    
-10. Músicas por:
-11. <https://pixabay.com/pt/sound-effects/latidos-de-corazon-236173/>
-12. <https://pixabay.com/pt/sound-effects/search/pessoas%20comendo/>
-13. <https://pixabay.com/pt/sound-effects/search/people%20talking/>
-14. <https://pixabay.com/pt/users/cyberwave-orchestra-23801316/>
+12. Músicas por:
+13. <https://pixabay.com/pt/sound-effects/latidos-de-corazon-236173/>
+14. <https://pixabay.com/pt/sound-effects/search/pessoas%20comendo/>
+15. <https://pixabay.com/pt/sound-effects/search/people%20talking/>
+16. <https://pixabay.com/pt/users/cyberwave-orchestra-23801316/>
 .
     
