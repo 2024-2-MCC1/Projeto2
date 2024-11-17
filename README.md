@@ -92,21 +92,21 @@ Desde que Siga os termos:
 ## 🎓 Referências
 Referências usadas no projeto:
 
-<https://youtu.be/PsvhXlBlfp4?si=Kkhkhn25_RpFbvOb>
-<https://youtu.be/K9hJTO583_Y?si=i9sUWea-EeI_gDPo>
-<https://youtu.be/61NzCU3EdUs?si=0CPMnRU-kJp9sQSL/>
-<https://pixabay.com/sound-effects//>
-<https://assetstore.unity.com/packages/tools/modeling/mess-maker-free-213803>
-<https://www.turbosquid.com/3d-models/3d-broom-dust-pan-1451997>
-<https://kaylousberg.itch.io/city-builder-bits>
-<https://kaylousberg.itch.io/restaurant-bits>
-<https://www.mixamo.com/>
-<https://assetstore.unity.com/search#q=Modern%20Archviz%3A%20Leafless>
-<https://assetstore.unity.com/search#q=office%20pack>
+1. <https://youtu.be/PsvhXlBlfp4?si=Kkhkhn25_RpFbvOb>
+2. <https://youtu.be/K9hJTO583_Y?si=i9sUWea-EeI_gDPo>
+3. <https://youtu.be/61NzCU3EdUs?si=0CPMnRU-kJp9sQSL/>
+4. <https://pixabay.com/sound-effects//>
+5. <https://assetstore.unity.com/packages/tools/modeling/mess-maker-free-213803>
+6. <https://www.turbosquid.com/3d-models/3d-broom-dust-pan-1451997>
+7. <https://kaylousberg.itch.io/city-builder-bits>
+8. <https://kaylousberg.itch.io/restaurant-bits>
+9. <https://www.mixamo.com/>
+10. <https://assetstore.unity.com/search#q=Modern%20Archviz%3A%20Leafless>
+11. <https://assetstore.unity.com/search#q=office%20pack>
     
 Músicas e efeitos sonoros:
 
-<https://pixabay.com/pt/sound-effects/latidos-de-corazon-236173/>
-<https://pixabay.com/pt/sound-effects/search/pessoas%20comendo/>
-<https://pixabay.com/pt/sound-effects/search/people%20talking/>
-<https://pixabay.com/pt/users/cyberwave-orchestra-23801316/>
+1. <https://pixabay.com/pt/sound-effects/latidos-de-corazon-236173/>
+2. <https://pixabay.com/pt/sound-effects/search/pessoas%20comendo/>
+3. <https://pixabay.com/pt/sound-effects/search/people%20talking/>
+4. <https://pixabay.com/pt/users/cyberwave-orchestra-23801316/>
