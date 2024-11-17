@@ -94,7 +94,19 @@ Sigas as etapas
 - E clique na Unity para abrir essa pasta
 
 ## 📋 Licença/License
+Projeto by Bruno,Esther e Yanko- Ciclo Vicioso
 
+Este projeto está licenciado sobr a <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons BY-SA 4.0<a/>
+
+Você é livre para:
+
+1- Compartilhar- Copiar e redistribuir o material em qualquer meio ou formato
+2- Adptar- remixar, trasnformare criar a partir do material para qualquer finalidade mesmo que comercial
+
+Desde que Siga os termos:
+
+1- Atribuição- Você deve dar os devidos crédito, fornecer um link para a licença e indicar se mudanças foram feitas 
+2- Compartilhar igual - Se você remixar, Transforma, ou criar algo a partir do material, deve distribuir sua contribuiçãoes sob a mesma licença que o original
 
 ## 🎓 Referências
 Aqui estão as referências usadas no projeto.
