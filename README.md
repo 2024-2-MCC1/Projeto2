@@ -23,7 +23,7 @@ Ciclo Vicioso
 
 De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
 <br><br>
-Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
+O jogo aborda o cotidiano de um personagem com Transtorno de Ansiedade Generalizada (TAG), explorando como a pressão por produtividade e a falta de lazer agravam sua condição. Ele conduz o jogador por um ciclo diário de tarefas e reflexões, com o propósito de destacar a importância do equilíbrio entre trabalho e saúde mental, promovendo a conscientização sobre o impacto da ansiedade no dia a dia.
 <br><br>
 May the force be with you!
 <br><br>
