@@ -89,7 +89,7 @@ Sigas as etapas
 
 
 - Faça a intalação do Unity
-- Utilize a versão criada 2022.3.36f1
+- Utilize a versão criada 2022.3.36f1 (Ou pode haver erro ao tentar abrir)
 - Baixe os arquivos do repositorio
 - E clique na Unity para abrir essa pasta
 
