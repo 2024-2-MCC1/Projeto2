@@ -92,7 +92,6 @@ Sigas as etapas
 - Utilize a versão criada 2022.3.36f1
 - Baixe os arquivos do repositorio
 - E clique na Unity para abrir essa pasta
-```
 
 ## 📋 Licença/License
 
@@ -117,5 +116,5 @@ Aqui estão as referências usadas no projeto.
 15. <https://pixabay.com/pt/sound-effects/search/pessoas%20comendo/>
 16. <https://pixabay.com/pt/sound-effects/search/people%20talking/>
 17. <https://pixabay.com/pt/users/cyberwave-orchestra-23801316/>
-.
+
     
