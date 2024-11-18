@@ -30,8 +30,11 @@ A gameplay do jogo pode ser dividida em três principais fases:
 ## 🛠 Estrutura de pastas
 
 / Assets                - Pacote Principal do jogo<br>
-/<br>
-|-->documentos<br>
+/Material - Materiais do jogo <br>
+/Animção - Todas as animções dos personagens <br>
+/Scenes - Todas as cenas do jogo <br>
+/Som - Todas as musicas e sons <br>
+/Scripts - Toda lógica do jogo <br>
   &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
 |-->executáveis<br>
