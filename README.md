@@ -29,8 +29,8 @@ A gameplay do jogo pode ser dividida em três principais fases:
    
 ## 🛠 Estrutura de pastas
 
--Raiz<br>
-|<br>
+/ Assets                - Pacote Principal do jogo<br>
+/<br>
 |-->documentos<br>
   &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
