@@ -37,16 +37,6 @@ A gameplay do jogo pode ser dividida em três principais fases:
 /Executável - Executável do jogo <br>
 
 
-Há também 4 pastas organizadas da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta
-
-<b>builds</b>: Binários e executáveis do projeto devem estar nesta pasta
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte
-
 ## 🛠 Instalação
 
 <b>Windows:</b>
