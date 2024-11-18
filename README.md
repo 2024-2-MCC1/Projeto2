@@ -28,24 +28,13 @@ A gameplay do jogo pode ser dividida em três principais fases:
 3. <b>Tomada de Consciência:</b> Explore como o excesso de responsabilidades impacta a saúde mental e emocional.
    
 ## 🛠 Estrutura de pastas
-
-/ Assets                - Pacote Principal do jogo<br>
+/Assets - Pacote principal do jogo <br>
 /Material - Materiais do jogo <br>
-/Animção - Todas as animções dos personagens <br>
+/Animação - Todas as animações dos personagens <br>
 /Scenes - Todas as cenas do jogo <br>
-/Som - Todas as musicas e sons <br>
-/Scripts - Toda lógica do jogo <br>
-  &emsp;|-->antigos<br>
-  &emsp;|Documentação.docx<br>
-|-->executáveis<br>
-  &emsp;|-->windows<br>
-  &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
-|-->imagens<br>
-|-->src<br>
-  &emsp;|-->Backend<br>
-  &emsp;|-->Frontend<br>
-|readme.md<br>
+/Som - Todas as músicas e sons <br>
+/Scripts - Toda a lógica do jogo <br>
+/Executável - Executável do jogo <br>
 
 
 Há também 4 pastas organizadas da seguinte forma:
