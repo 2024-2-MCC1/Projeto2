@@ -66,14 +66,16 @@ Baixe o arquivo "Ciclo_Vicioso.rar", extraia-o e execute o "Ciclo_Vicioso.exe" c
 
 Para abrir este projeto você necessita das seguintes ferramentas:
 
-Baixar a plataforma <a href= "https://unity.com/pt/releases/editor/whats-new/2022.3.6">Unity</a> e instalar a versão 2022.3.36f1
+Arquivos de projeto no Unity: https://drive.google.com/file/d/1TT3ZED2lyiuikb9jIK0E7vUHvw5qPOj5/view?usp=sharing
+Baixar a plataforma <a href="https://unity.com/pt/releases/editor/whats-new/2022.3.6">Unity</a> e instalar a versão 2022.3.36f1
 
 Sigas as etapas:
 
-- Faça a intalação do Unity
-- Utilize a versão criada 2022.3.36f1 (Ou pode haver erro ao tentar abrir)
-- Baixe os arquivos do repositorio
-- E clique na Unity para abrir essa pasta
+- Baixe os arquivos de projeto no link acima e extraia o arquivo
+- Faça a intalação do Unity Hub
+- No Unity Hub, clique em Add > Add project from disk
+- Selecione a pasta onde os arquivos foram extraidos
+- Abra o projeto (Utilize a mesma versão do projeto "2022.3.36f1" ou pode haver erro ao tentar abrir)
 
 ## 📋 Licença/License
 Projeto por Bruno, Esther e Yanko - Ciclo Vicioso
