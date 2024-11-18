@@ -58,7 +58,7 @@ Há também 4 pastas organizadas da seguinte forma:
 <b>Windows:</b>
 
 Não há instalação! Apenas executável!
-Encontre o Ciclo_Vicioso.exe na pasta "Builds" e execute-o como qualquer outro programa.
+Baixe o arquivo "Ciclo_Vicioso.rar", extraia-o e execute o "Ciclo_Vicioso.exe" como qualquer outro programa.
 
 ## 💻 Configuração para Desenvolvimento
 
