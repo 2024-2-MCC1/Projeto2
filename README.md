@@ -11,7 +11,7 @@
 ## Nome do Grupo
 Ciclo Vicioso
 
-## Integrantes: <a href="https://github.com/Smug303">Bruno Eduardo Da Silva Pinho,</a> <a href="https://github.com/estherolvr">Esther Oliveira Costa</a> e Yanko Lee
+## Integrantes: <a href="https://github.com/Smug303">Bruno Eduardo Da Silva Pinho,</a> <a href="https://www.linkedin.com/in/estherolvr/">Esther Oliveira Costa</a> e Yanko Lee
 
 ## Professores Orientadores: Adriano Felix Valente, Fabiano Alves Onça, Francisco de Souza Escobar, João Pedro da Costa Pinto, <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Queiroz</a>
 
